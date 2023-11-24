@@ -1,0 +1,120 @@
+
+.section{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.main-heading{
+  color: rgb(255, 187, 0);
+  font-size: 55px;
+}
+
+.main-headingNosotros{
+  color: rgb(255, 187, 0);
+  font-size: 45px;
+  padding-top: 20px;
+  padding-block: 40px;
+}
+
+.main-headingNos{
+  color: rgb(255, 187, 0);
+  font-size: 25px;
+  padding-top: 20px;
+  padding-block: 40px;
+}
+
+.main-heading1{
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+}
+
+.main-heading-a{
+  color: rgb(255, 255, 255);
+  font-size: 25px;
+}
+
+.underline{
+  height: 04px;
+  width: 4rem;
+  background-color: rgb(255, 123, 0);
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.bg-c-light{
+  color: white;
+  background-color: rgb(0, 0, 0);
+}
+
+.footer{
+  padding: top;
+}
+
+
+.footer a{
+  color: orange;
+  text-decoration: none !important;
+}
+
+.footer a:hover{
+  color: orangered;
+}
+
+/* contacto */
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Esto centrará verticalmente el contenido */
+  margin: 20px; /* Ajusta el margen según tus necesidades */
+}
+
+.containerform {
+  width: 100%;
+  max-width: 600px; /* Establece el ancho máximo del contenedor del formulario */
+}
+
+.card-body {
+  padding: 20px;
+}
+
+/* Puedes ajustar estos estilos según tus necesidades */
+.form-group {
+  margin-bottom: 20px;
+}
+
+.border-right {
+  border-right: 1px solid #ccc; /* Añade una línea divisoria derecha */
+}
+
+/* contacto */
+
+.card {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* Esto centrará verticalmente el contenido */
+  margin: 20px; /* Ajusta el margen según tus necesidades */
+}
+
+.containerform {
+  width: 100%;
+  max-width: 600px; /* Establece el ancho máximo del contenedor del formulario */
+}
+
+.card-body {
+  padding: 20px;
+}
+
+/* Puedes ajustar estos estilos según tus necesidades */
+.form-group {
+  margin-bottom: 20px;
+}
+
+.border-right {
+  border-right: 1px solid #ccc; /* Añade una línea divisoria derecha */
+}
+
+/* contacto */
+
